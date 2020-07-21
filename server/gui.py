@@ -48,3 +48,5 @@ class ServerWindow(QMainWindow):
         self._ui.pushButton_2.setEnabled(False)
         self._ui.label_3.setText('Статус: выключен')
         self._ui.label_3.setStyleSheet('color: red')
+
+
